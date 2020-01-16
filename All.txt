@@ -1,3 +1,5 @@
 Esimene tekst
 Teine tekst
 Kolmas tekst
+
+Kuues commit
