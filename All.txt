@@ -1,9 +1,2 @@
-Kaheksas commit
-Üheksas commit
-Kümnes commit
-Üheteistkümnes commit
-Kaheteistkümnes commit
-Kolmeteistkümnes commit
-Neljateistkümnes commit
-Viieteistkümnes commit
-
+Ainult viimane commit:
+Kuueteistkümnes commit
