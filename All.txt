@@ -2,3 +2,4 @@ Kuueteistkümnes commit
 Seitsmeteistkümnes commit
 Kaheksateistkümnes commit
 Üheksateistkümnes commit
+Kahekümnes commit
