@@ -4,3 +4,4 @@ Kaheksateistkümnes commit
 Üheksateistkümnes commit
 Kahekümnes commit
 Kahekümne esimene commit
+Kahekümne teine commit
