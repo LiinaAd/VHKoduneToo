@@ -1,7 +1,1 @@
-Kuueteistkümnes commit
-Seitsmeteistkümnes commit
-Kaheksateistkümnes commit
-Üheksateistkümnes commit
-Kahekümnes commit
-Kahekümne esimene commit
-Kahekümne teine commit
+Kahekümne kolmas commit
